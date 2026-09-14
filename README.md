@@ -3,83 +3,107 @@
 
 # Java Web Programming
 
-### 1. **Spring Legacy Project Setup**  
-   - Maven installation and configuration  
-   - Spring Tool Suite (STS) setup  
-   - Directory structure of a typical Spring MVC project  
+This repository contains my notes from studying Java Web Programming as part of the AI Software High-Tech Program.
 
-### 2. **Spring MVC Core Features**  
-   - Controller, DAO, Service layers  
-   - View with JSP using Apache Tiles  
-   - JDBC with MyBatis integration  
-   - Logging with Log4j  
+## [Chapter 1. Program Evolution](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.01)
 
-### 3. **User Management Functionality**  
-   - Login, Logout, Session handling  
-   - User registration and modification  
-   - Member list and detail views  
+## [Chapter 2. Web Programming Evolution](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.02)
 
-### 4. **REST API with Spring**  
-   - `@RestController` and JSON response using Jackson  
-   - CRUD via `GET`, `POST`, `PUT`, `DELETE`  
-   - `@RequestBody`, `@ResponseBody`, `@PathVariable` explained  
-   - Using `ResponseEntity` for custom HTTP responses  
+## [Chapter 3. JSP Development Environment Setup](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.03)
 
-### 5. **Client-Side Communication**  
-   - jQuery AJAX with Spring REST endpoints  
-   - JSON object exchange from/to Spring controllers  
+## [Chapter 4. Web Application Structure & Deployment](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.04)
 
-### 6. **Advanced Configurations**  
-   - AOP with AspectJ for logging  
-   - Using Tiles for dynamic page layouts  
-   - Log4j configuration for console and file logging  
+## [Chapter 5. Servlet Understanding](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.05)
 
-### 7. **Complete CRUD with RESTful API**  
-   - RESTful controller returning objects, lists, maps  
-   - Full RESTful CRUD example using `ArticleVO`  
-   - Tested with jQuery (AJAX) and sample `JSONTest.jsp`  
+## [Chapter 6. Servlet Basics - Request & Response Handling](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.06)
+
+## [Chapter 7. Servlet Business Logic Processing](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.07)
+
+## [Chapter 8. Servlet Extended API Usage](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.08)
+
+## [Chapter 9. Cookies and Sessions](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.09)
+
+## [Chapter 10. Servlet Filters and Listeners](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.10)
+
+## [Chapter 14. Expression Language (EL) and JSTL](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.14)
+
+## [Chapter 17. Model2 Architecture for Efficient Development](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.17)
+
+## [Chapter 18. Spring Framework Introduction](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.18)
+
+## [Chapter 19. Spring Dependency Injection & IoC](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.19)
+
+## [Chapter 20. Spring AOP Functionality](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.20)
+
+## [Chapter 21. Spring MVC Functionality](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.21)
+
+## [Chapter 22. Spring JDBC Functionality](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.22)
+
+## [Chapter 23. MyBatis Framework Usage](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.23)
+
+## [Chapter 24. Spring and MyBatis Integration](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.24)
+
+## [Chapter 26. Spring Annotation Features](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.26)
+
+## [Chapter 27. Maven and Spring Tool Suite (STS) Usage](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.27)
+
+## [Chapter 28. Spring Framework - Multiple Features and Functionalities](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.28)
+
+## [Chapter 29. Spring REST API Usage](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.29)
 
 </details>
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-# 자바 웹 프로그래밍
+# Java Web Programming
 
-### 1. **스프링 레거시 프로젝트 구축**  
-   - Maven 설치 및 환경 변수 설정  
-   - STS(Spring Tool Suite) 설치  
-   - 스프링 MVC 기본 디렉터리 구조 설명  
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 Java Web Programming 내용을 정리하여 업로드했습니다.
 
-### 2. **Spring MVC 핵심 기능 구성**  
-   - Controller, DAO, Service 레이어 구조  
-   - Apache Tiles 기반 JSP View 설계  
-   - MyBatis와 JDBC 연동  
-   - Log4j를 활용한 로깅 설정  
+## [1장. 프로그램 발전 과정](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.01)
 
-### 3. **회원 관리 기능 구현**  
-   - 로그인, 로그아웃, 세션 처리  
-   - 회원 등록 및 수정  
-   - 회원 목록 및 상세 보기 페이지 구현  
+## [2장. 웹 프로그래밍 발전](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.02)
 
-### 4. **Spring 기반 REST API 구축**  
-   - `@RestController` 사용하여 JSON 반환  
-   - HTTP 메서드 기반 CRUD (`GET`, `POST`, `PUT`, `DELETE`)  
-   - `@RequestBody`, `@ResponseBody`, `@PathVariable` 사용법  
-   - `ResponseEntity`로 상태 코드 및 메시지 조절  
+## [3장. JSP 개발 환경 세팅](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.03)
 
-### 5. **클라이언트와의 통신**  
-   - jQuery AJAX를 통한 비동기 REST 호출  
-   - JSON 데이터를 컨트롤러와 주고받는 방식  
+## [4장. 웹 애플리케이션 구조 및 배포](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.04)
 
-### 6. **고급 설정 기능**  
-   - AspectJ를 이용한 AOP 기반 로깅 처리  
-   - Tiles를 활용한 템플릿 레이아웃 적용  
-   - 로그 출력 설정 (콘솔, 파일)  
+## [5장. 서블릿 이해하기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.05)
 
-### 7. **RESTful API를 활용한 전체 CRUD**  
-   - 객체/리스트/맵 형태의 JSON 반환 예시  
-   - `ArticleVO`를 활용한 전체 RESTful CRUD 예제  
-   - jQuery 기반 AJAX 테스트 (`JSONTest.jsp` 활용)  
+## [6장. 서블릿 기초 - 요청 & 응답 처리](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.06)
+
+## [7장. 서블릿 비즈니스 로직 처리](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.07)
+
+## [8장. 서블릿 확장 API 사용하기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.08)
+
+## [9장. 쿠키와 세션 알아보기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.09)
+
+## [10장. 서블릿 필터와 리스너 기능](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.10)
+
+## [14장. 표현 언어(EL)와 JSTL](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.14)
+
+## [17장. Model2 방식으로 효율적으로 개발하기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.17)
+
+## [18장. 스프링 프레임워크 시작하기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.18)
+
+## [19장. 스프링 의존성 주입과 제어 역전](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.19)
+
+## [20장. 스프링 AOP 기능](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.20)
+
+## [21장. 스프링 MVC 기능](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.21)
+
+## [22장. 스프링 JDBC 기능](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.22)
+
+## [23장. 마이바티스 프레임워크 사용](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.23)
+
+## [24장. 스프링과 마이바티스 연동](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.24)
+
+## [26장. 스프링 애너테이션 기능](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.26)
+
+## [27장. 메이븐과 스프링 STS 사용법](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.27)
+
+## [28장. 스프링 프레임워크 - 여러 가지 기능들](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.28)
+
+## [29장. 스프링 REST API 사용하기](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming/tree/Ch.29)
 
 </details>
