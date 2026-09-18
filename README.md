@@ -578,7 +578,7 @@ INFO BoardController - ArticleNO: 114
 
 ## 1. REST란?
 
-**REST (Representational State Transfer)**는 URI로 식별되는 리소스에 대해 HTTP 메서드를 사용하여 CRUD 작업을 수행하는 웹 서비스 아키텍처 스타일입니다.
+**REST (Representational State Transfer)** 는 URI로 식별되는 리소스에 대해 HTTP 메서드를 사용하여 CRUD 작업을 수행하는 웹 서비스 아키텍처 스타일입니다.
 
 **주요 특징:**
 - **URI 기반 리소스 식별:** 각 리소스는 고유한 URI를 가짐
