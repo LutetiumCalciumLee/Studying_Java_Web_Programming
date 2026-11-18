@@ -763,7 +763,7 @@ public class MemberControllerImpl implements MemberController {
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 프레임워크 - 여러 가지 기능들
