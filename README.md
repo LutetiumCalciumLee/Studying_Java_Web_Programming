@@ -149,7 +149,7 @@ MemberController → MemberService → MemberDAO → SqlSession → member.xml S
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링과 마이바티스 연동
