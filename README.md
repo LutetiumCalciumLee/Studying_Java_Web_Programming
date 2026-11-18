@@ -88,7 +88,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 쿠키와 세션 알아보기
