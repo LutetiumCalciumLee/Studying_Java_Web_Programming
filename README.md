@@ -111,7 +111,7 @@ public ModelAndView login(HttpServletRequest request) {
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 MVC 기능
