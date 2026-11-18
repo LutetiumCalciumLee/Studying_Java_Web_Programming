@@ -204,7 +204,7 @@ int result = session.insert("mapper.member.foreachInsert", memList);
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 마이바티스 프레임워크 사용
