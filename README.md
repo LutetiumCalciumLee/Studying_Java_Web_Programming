@@ -87,7 +87,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 서블릿 확장 API 사용하기
