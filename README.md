@@ -41,7 +41,7 @@ Enables component scanning, MVC, and database connection pooling.
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 프레임워크 시작하기
