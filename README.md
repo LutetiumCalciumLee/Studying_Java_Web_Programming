@@ -68,7 +68,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 서블릿 비즈니스 로직 처리
