@@ -50,7 +50,7 @@ Always use `<c:out>` for user input to prevent XSS. Set `scope` explicitly for `
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 표현 언어(EL)와 JSTL
