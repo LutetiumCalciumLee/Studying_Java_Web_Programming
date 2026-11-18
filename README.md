@@ -89,7 +89,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 서블릿 필터와 리스너 기능
