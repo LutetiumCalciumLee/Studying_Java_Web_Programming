@@ -571,7 +571,7 @@ INFO BoardController - ArticleNO: 114
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 REST API 사용하기
