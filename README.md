@@ -54,7 +54,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 서블릿 기초 - 요청 & 응답 처리
