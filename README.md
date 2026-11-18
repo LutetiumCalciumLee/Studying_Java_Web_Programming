@@ -210,7 +210,7 @@ public class MemberVO {
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 애너테이션 기능
