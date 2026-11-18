@@ -93,7 +93,7 @@ pro19/
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 스프링 의존성 주입과 제어 역전
