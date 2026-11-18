@@ -50,7 +50,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 웹 애플리케이션 구조 및 배포
