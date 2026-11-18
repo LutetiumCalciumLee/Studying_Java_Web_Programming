@@ -55,7 +55,7 @@ Decouples Controller from DAO. Single responsibility: `BoardService.listArticles
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Model2 방식으로 효율적으로 개발하기
