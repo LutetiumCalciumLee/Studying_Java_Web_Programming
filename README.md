@@ -57,7 +57,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # JSP 개발 환경 세팅
